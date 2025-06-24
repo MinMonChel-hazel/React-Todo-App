@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 0.2825718266989631,
+      "title": "cooking curry",
+      "completed": false
+    },
+    {
+      "id": 0.3745891712122277,
+      "title": "go to 7",
+      "completed": false
+    },
+    {
+      "id": 0.3346890420950598,
+      "title": "cooking curry",
+      "completed": false
+    }
+  ]
+}
